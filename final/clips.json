@@ -1,7 +1,37 @@
 [
- {"name": "Aging: Age 6.5 years in 10?", "status": "FINAL", "owner": "Gita E-commerce", "updated": "2026-11-03 09:17 Israel time", "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/24c9847c7820b1ecb605dfb886859346e4f0253a/preview/clips/aging_4k_v3.mp4"},
- {"name": "Aging 6.5 Years in 10 · 9:16 · 4K · 61s", "status": "FINAL", "owner": "Gita Design", "updated": "2026-11-03 09:23 Israel time", "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/85b3deda3bee504893c535c560f86a25fcfbbba4/preview/clips/aging_6p5y_9x16_4k.mp4"},
- {"name": "Cake: Longevity is like a cake", "status": "FIXING (hook line break and audio)", "owner": "Gita E-commerce", "updated": "2026-11-03 09:09 Israel time", "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/f7f0fa1c93d145e46259f685f5fa53f07cc79500/preview/clips/cake_4k.mp4"},
- {"name": "Red Wine: Your wine is making hot flashes worse", "status": "FIXING (hook style and audio)", "owner": "Gita E-commerce", "updated": "2026-11-03 09:07 Israel time", "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/c5e9fb2f2a5936232c697d30ad4941f7f04e732f/preview/clips/red_wine_4k_v2.mp4"},
- {"name": "Sugar: Sugar cravings aren't willpower", "status": "FIXING (hook style and audio)", "owner": "Gita E-commerce", "updated": "2026-11-03 09:07 Israel time", "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/c5e9fb2f2a5936232c697d30ad4941f7f04e732f/preview/clips/sugar_4k_v2.mp4"}
+ {
+  "name": "Aging: Age 6.5 years in 10?",
+  "status": "FINAL",
+  "owner": "Gita E-commerce",
+  "updated": "2026-11-03 09:17 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/24c9847c7820b1ecb605dfb886859346e4f0253a/preview/clips/aging_4k_v3.mp4"
+ },
+ {
+  "name": "Aging 6.5 Years in 10 · 9:16 · 4K · 61s",
+  "status": "FINAL",
+  "owner": "Gita Design",
+  "updated": "2026-11-03 09:23 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/85b3deda3bee504893c535c560f86a25fcfbbba4/preview/clips/aging_6p5y_9x16_4k.mp4"
+ },
+ {
+  "name": "Cake: Longevity is like a cake",
+  "status": "FINAL",
+  "owner": "Gita E-commerce",
+  "updated": "2026-11-03 09:31 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/4644154c5c252c17e6cf8ab446b0c930646d17ed/preview/clips/cake_4k_final.mp4"
+ },
+ {
+  "name": "Red Wine: Your wine is making hot flashes worse",
+  "status": "FIXING (hook style and audio)",
+  "owner": "Gita E-commerce",
+  "updated": "2026-11-03 09:07 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/c5e9fb2f2a5936232c697d30ad4941f7f04e732f/preview/clips/red_wine_4k_v2.mp4"
+ },
+ {
+  "name": "Sugar: Sugar cravings aren't willpower",
+  "status": "FIXING (hook style and audio)",
+  "owner": "Gita E-commerce",
+  "updated": "2026-11-03 09:07 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/c5e9fb2f2a5936232c697d30ad4941f7f04e732f/preview/clips/sugar_4k_v2.mp4"
+ }
 ]
