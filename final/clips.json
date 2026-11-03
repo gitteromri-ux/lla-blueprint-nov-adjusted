@@ -1,5 +1,82 @@
 [
  {
+  "name": "Julie film · 60s · 9:16 · 1080x1920",
+  "status": "FINAL",
+  "owner": "Julie films",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/d47226dd0998f7594996c9e8e7954bcff30cfe2f/film3/LLA_Julie_Film_60s_NOV-OFFER_9x16.mp4"
+ },
+ {
+  "name": "Julie film · 75s · 9:16 · 1080x1920",
+  "status": "FINAL",
+  "owner": "Julie films",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/d47226dd0998f7594996c9e8e7954bcff30cfe2f/film3/LLA_Julie_Film_75s_NOV-OFFER_9x16.mp4"
+ },
+ {
+  "name": "Five Habits UGC · 9:16 · 1080x1920",
+  "status": "FINAL",
+  "owner": "Claude",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/ef98cc315dee1e3e3c24c4431c6e79f4a8037fda/final/claude/Claude_FiveHabits_BlueprintNov_1m30_9x16_Reels-Stories.mp4"
+ },
+ {
+  "name": "Five Habits UGC · 4:5 · 1080x1350",
+  "status": "FINAL",
+  "owner": "Claude",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/ef98cc315dee1e3e3c24c4431c6e79f4a8037fda/final/claude/Claude_FiveHabits_BlueprintNov_1m30_4x5_Feed.mp4"
+ },
+ {
+  "name": "Five Habits UGC · 1:1 · 1080x1080",
+  "status": "FINAL",
+  "owner": "Claude",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/ef98cc315dee1e3e3c24c4431c6e79f4a8037fda/final/claude/Claude_FiveHabits_BlueprintNov_1m30_1x1_Feed-Square.mp4"
+ },
+ {
+  "name": "Ad 17 VIP regen · 9:16 · 1080x1920",
+  "status": "FINAL",
+  "owner": "Claude",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/ef98cc315dee1e3e3c24c4431c6e79f4a8037fda/final/claude/ad17_VIP_regen_9x16.mp4"
+ },
+ {
+  "name": "Ad 17 VIP regen · 1:1 · 1080x1080",
+  "status": "FINAL",
+  "owner": "Claude",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://raw.githubusercontent.com/gitteromri-ux/lla-blueprint-nov-adjusted/ef98cc315dee1e3e3c24c4431c6e79f4a8037fda/final/claude/ad17_VIP_regen_1x1.mp4"
+ },
+ {
+  "name": "Presenter UGC · Man · 9:16 · 1080x1920",
+  "status": "FINAL",
+  "owner": "Presenter UGC",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://gitteromri-ux.github.io/lla-julie-ugc-ads/blueprint-nov/Blueprint_UGC_man_9x16_NOV.mp4"
+ },
+ {
+  "name": "Presenter UGC · Man · 1:1 · 1080x1080",
+  "status": "FINAL",
+  "owner": "Presenter UGC",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://gitteromri-ux.github.io/lla-julie-ugc-ads/blueprint-nov/Blueprint_UGC_man_1x1_NOV.mp4"
+ },
+ {
+  "name": "Presenter UGC · Woman 46 · 9:16 · 1080x1920",
+  "status": "FINAL",
+  "owner": "Presenter UGC",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://gitteromri-ux.github.io/lla-julie-ugc-ads/blueprint-nov/Blueprint_UGC_w46_9x16_NOV.mp4"
+ },
+ {
+  "name": "Presenter UGC · Woman 46 · 1:1 · 1080x1080",
+  "status": "FINAL",
+  "owner": "Presenter UGC",
+  "updated": "2026-11-03 11:58 Israel time",
+  "url": "https://gitteromri-ux.github.io/lla-julie-ugc-ads/blueprint-nov/Blueprint_UGC_w46_1x1_NOV.mp4"
+ },
+ {
   "name": "Banner · Ad #2 Courtney · 9:16 · 1080x1921",
   "status": "FINAL",
   "owner": "Banners",
