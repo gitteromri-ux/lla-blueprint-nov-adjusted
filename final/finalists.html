@@ -4,7 +4,7 @@
 function R(){var d=LLA.g(),ks=Object.keys(d).sort(function(a,b){return d[a].cat<d[b].cat?-1:1}),L=document.getElementById('L');
 L.innerHTML=ks.length?'':'<p>No finalists yet. Tick "Finalist for upload" on any category page.</p>';
 ks.forEach(function(k){var x=d[k],e=document.createElement('div');e.className='f';var img=/\.(png|jpe?g)$/i.test(x.u);
-e.innerHTML='<div style="color:#ffd54a;font-size:13px">'+x.cat+'</div><b></b>'+(img?'<img loading="lazy">':'<video controls preload="none"></video>')+'<a target="_blank">Open</a> · <a download>Download</a><textarea placeholder="Comment…"></textarea><button>Remove</button>';
+e.innerHTML='<div style="color:#ffd54a;font-size:13px">'+x.cat+'</div><b></b>'+(img?'<img loading="lazy">':'<video controls preload="none" playsinline></video>')+'<a target="_blank">Open</a> · <a download>Download</a><textarea placeholder="Comment…"></textarea><button>Remove</button>';
 e.querySelector('b').textContent=x.n;var m=e.querySelector(img?'img':'video');m.src=x.u;var as=e.querySelectorAll('a');as[0].href=as[1].href=x.u;
 var ta=e.querySelector('textarea');ta.value=x.c||'';ta.oninput=function(){var d=LLA.g();if(d[k]){d[k].c=ta.value;LLA.s(d)}};
 e.querySelector('button').onclick=function(){var d=LLA.g();delete d[k];LLA.s(d);R()};L.appendChild(e)})}R();
